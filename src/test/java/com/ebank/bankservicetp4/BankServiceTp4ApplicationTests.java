@@ -1,0 +1,13 @@
+package com.ebank.bankservicetp4;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class BankServiceTp4ApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
